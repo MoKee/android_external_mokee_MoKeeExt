@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <google>
+        <version>MK44</version>
+        <name>gapps_kk-20131126.zip</name>
+        <changelog>gapps_kk-20131126.log</changelog>
+        <changelog_zh-cn>gapps_kk-20131126_zh-cn.log</changelog_zh-cn>
+        <md5>967602e2ac016db5ee88b13e6f9cb08c</md5>
+        <checkflag>com.google.android.gms</checkflag>
+        <description_zh-cn>谷歌服务包</description_zh-cn>
+        <description>Google Mobile Service</description>
+   </google>
+   <google>
+        <version>MK44</version>
+        <name>uninstall_gapps_kk-20131126.zip</name>
+        <changelog>uninstall_gapps_kk-20131126.log</changelog>
+        <changelog_zh-cn>uninstall_gapps_kk-20131126_zh-cn.log</changelog_zh-cn>
+        <md5>a14f51e020237114b6d3667092524a23</md5>
+        <checkflag>uninstall.com.google.android.gms</checkflag>
+        <description_zh-cn>卸载谷歌服务包</description_zh-cn>
+        <description>Uninstall Google Mobile Service</description>
+   </google>
+   <application>
+        <version>MK44</version>
+        <name>MoKeeMarket.apk</name>
+        <changelog>MoKeeMarket.log</changelog>
+        <md5>9c19765c371be38ec2b60f99530ff450</md5>
+        <checkflag>com.uucun50105128.android.cms</checkflag>
+        <description_zh-cn>魔趣市场</description_zh-cn>
+        <description>MoKee App Store</description>
+   </application>
+   <application>
+        <version>MK44</version>
+        <name>MarketExt.apk</name>
+        <changelog>MarketExt.log</changelog>
+        <md5>a07490457664a05b3f9bea903cd9b461</md5>
+        <checkflag>com.uucun50105128.folder3722</checkflag>
+        <description_zh-cn>装机必备</description_zh-cn>
+        <description>Installed Recommended</description>
+   </application>
+   <application>
+        <version>MK44</version>
+        <name>MoKeeForum.apk</name>
+        <changelog>MoKeeForum.log</changelog>
+        <md5>89cfffe68078d0d63fca9d4175c25591</md5>
+        <checkflag>com.mfunz.bbs</checkflag>
+        <description_zh-cn>魔趣论坛客户端</description_zh-cn>
+        <description>MoKee Forum Client</description>
+   </application>
+</root>
+
