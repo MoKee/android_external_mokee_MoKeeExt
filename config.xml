@@ -40,6 +40,15 @@
    </application>
    <application>
         <version>MK44</version>
+        <name>GameCenter.apk</name>
+        <changelog>GameCenter.log</changelog>
+        <md5>5ca4aee9caac4f7e6dbad99707b7b42a</md5>
+        <checkflag>com.android50105128.folder9583</checkflag>
+        <description_zh-cn>游戏中心</description_zh-cn>
+        <description>GameCenter</description>
+   </application>
+   <application>
+        <version>MK44</version>
         <name>MoKeeForum.apk</name>
         <changelog>MoKeeForum.log</changelog>
         <md5>89cfffe68078d0d63fca9d4175c25591</md5>
