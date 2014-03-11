@@ -20,6 +20,16 @@
         <description_zh-cn>卸载谷歌服务包</description_zh-cn>
         <description>Uninstall Google Mobile Service</description>
    </google>
+   <google>
+        <version>MK44</version>
+        <name>gms-faceunlock_kk.zip</name>
+        <changelog>gms-faceunlock_kk.log</changelog>
+        <changelog_zh-cn>gms-faceunlock_kk_zh-cn.log</changelog_zh-cn>
+        <md5>b91afe2f25a3aff6a55564e32836d3e0</md5>
+        <checkflag>com.android.facelock</checkflag>
+        <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
+        <description>Google FaceUnlock</description>
+   </google>
    <application>
         <version>MK44</version>
         <name>MoKeeMarket.apk</name>
