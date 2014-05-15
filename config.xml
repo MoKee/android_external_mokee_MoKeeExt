@@ -2,19 +2,19 @@
 <root>
    <google>
         <version>MK44</version>
-        <name>gapps_kk-20140430.zip</name>
-        <changelog>gapps_kk-20140430.log</changelog>
-        <changelog_zh-cn>gapps_kk-20140430_zh-cn.log</changelog_zh-cn>
-        <md5>4c8b9a1b91dc94dd5d905b6228ea7163</md5>
+        <name>gapps_kitkat-140515.zip</name>
+        <changelog>gapps_kitkat-140515.log</changelog>
+        <changelog_zh-cn>gapps_kitkat-140515_zh-cn.log</changelog_zh-cn>
+        <md5>ab9325e689d36ecac91d507e8e8a07b0</md5>
         <checkflag>com.google.android.gms</checkflag>
         <description_zh-cn>谷歌服务包</description_zh-cn>
         <description>Google Mobile Service</description>
    </google>
    <google>
         <version>MK44</version>
-        <name>uninstall_gapps_kk-20140430.zip</name>
-        <changelog>uninstall_gapps_kk-20140430.log</changelog>
-        <changelog_zh-cn>uninstall_gapps_kk-20140430_zh-cn.log</changelog_zh-cn>
+        <name>uninstall_gapps_kitkat.zip</name>
+        <changelog>uninstall_gapps_kitkat.log</changelog>
+        <changelog_zh-cn>uninstall_gapps_kitkat_zh-cn.log</changelog_zh-cn>
         <md5>a14f51e020237114b6d3667092524a23</md5>
         <checkflag>uninstall.com.google.android.gms</checkflag>
         <description_zh-cn>卸载谷歌服务包</description_zh-cn>
