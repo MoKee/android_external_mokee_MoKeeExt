@@ -2,10 +2,10 @@
 <root>
    <google>
         <version>MK44</version>
-        <name>gapps_kitkat-140515.zip</name>
-        <changelog>gapps_kitkat-140515.log</changelog>
-        <changelog_zh-cn>gapps_kitkat-140515_zh-cn.log</changelog_zh-cn>
-        <md5>fb9cfef5d00537a266208c5dd0665b6f</md5>
+        <name>gapps_kitkat-140619.zip</name>
+        <changelog>gapps_kitkat-140619.log</changelog>
+        <changelog_zh-cn>gapps_kitkat-140619_zh-cn.log</changelog_zh-cn>
+        <md5>fba94c73443e800fb25a9660214012e2</md5>
         <checkflag>com.google.android.gms</checkflag>
         <description_zh-cn>谷歌服务包</description_zh-cn>
         <description>Google Mobile Service</description>
