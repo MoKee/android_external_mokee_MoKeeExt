@@ -37,7 +37,7 @@
         <changelog_zh-cn>uninstall_gapps-faceunlock_kitkat_zh-cn.log</changelog_zh-cn>
         <md5>eefd0d78fe16b2813e2e19204fc1b192</md5>
         <checkflag>uninstall.com.android.facelock</checkflag>
-        <description_zh-cn>御载谷歌面部解锁扩展包</description_zh-cn>
+        <description_zh-cn>卸载谷歌面部解锁扩展包</description_zh-cn>
         <description>Uninstall Google FaceUnlock</description>
    </google>
    <application>
