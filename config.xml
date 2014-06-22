@@ -30,6 +30,16 @@
         <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
         <description>Google FaceUnlock</description>
    </google>
+   <google>
+        <version>MK44</version>
+        <name>uninstall_gapps-faceunlock_kitkat.zip</name>
+        <changelog>uninstall_gapps-faceunlock_kitkat.log</changelog>
+        <changelog_zh-cn>uninstall_gapps-faceunlock_kitkat_zh-cn.log</changelog_zh-cn>
+        <md5>eefd0d78fe16b2813e2e19204fc1b192</md5>
+        <checkflag>uninstall.com.android.facelock</checkflag>
+        <description_zh-cn>御载谷歌面部解锁扩展包</description_zh-cn>
+        <description>Uninstall Google FaceUnlock</description>
+   </google>
    <application>
         <version>MK44</version>
         <name>MoKeeMarket.apk</name>
