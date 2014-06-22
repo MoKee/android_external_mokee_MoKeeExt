@@ -42,33 +42,6 @@
    </google>
    <application>
         <version>MK44</version>
-        <name>MoKeeMarket.apk</name>
-        <changelog>MoKeeMarket.log</changelog>
-        <md5>8a707e1629e3138dca4fb722b1877014</md5>
-        <checkflag>com.uucun50105128.android.cms</checkflag>
-        <description_zh-cn>魔趣市场</description_zh-cn>
-        <description>MoKee App Store</description>
-   </application>
-   <application>
-        <version>MK44</version>
-        <name>MarketExt.apk</name>
-        <changelog>MarketExt.log</changelog>
-        <md5>1c30170e4d268d9dd41b5c12473fd227</md5>
-        <checkflag>com.android50105128.folder9582</checkflag>
-        <description_zh-cn>装机必备</description_zh-cn>
-        <description>Installed Recommended</description>
-   </application>
-   <application>
-        <version>MK44</version>
-        <name>GameCenter.apk</name>
-        <changelog>GameCenter.log</changelog>
-        <md5>5ca4aee9caac4f7e6dbad99707b7b42a</md5>
-        <checkflag>com.android50105128.folder9583</checkflag>
-        <description_zh-cn>游戏中心</description_zh-cn>
-        <description>GameCenter</description>
-   </application>
-   <application>
-        <version>MK44</version>
         <name>MoKeeForum.apk</name>
         <changelog>MoKeeForum.log</changelog>
         <md5>812fd16992154b605f2d637c6cf12f79</md5>
