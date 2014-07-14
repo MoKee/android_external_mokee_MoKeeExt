@@ -41,13 +41,6 @@
         <description>Uninstall Google FaceUnlock</description>
    </google>
    <application>
-        <version>MK44</version>
-        <name>MoKeeForum.apk</name>
-        <changelog>MoKeeForum.log</changelog>
-        <md5>812fd16992154b605f2d637c6cf12f79</md5>
-        <checkflag>com.mfunz.bbs</checkflag>
-        <description_zh-cn>魔趣论坛客户端</description_zh-cn>
-        <description>MoKee Forum Client</description>
    </application>
    <application>
    </application>
