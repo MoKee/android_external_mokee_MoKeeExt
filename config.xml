@@ -11,6 +11,16 @@
         <description>Google Mobile Service</description>
    </google>
    <google>
+        <version>MK50</version>
+        <name>gapps-faceunlock_lollipop.zip</name>
+        <changelog>gapps-faceunlock_lollipop.log</changelog>
+        <changelog_zh-cn>gapps-faceunlock_lollipop_zh-cn.log</changelog_zh-cn>
+        <md5>3bc0ff125a09cb2759b7a9a44ea2e271</md5>
+        <checkflag>com.android.facelock</checkflag>
+        <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
+        <description>Google FaceUnlock</description>
+   </google>
+   <google>
         <version>MK44</version>
         <name>gapps_kitkat-140619.zip</name>
         <changelog>gapps_kitkat-140619.log</changelog>
