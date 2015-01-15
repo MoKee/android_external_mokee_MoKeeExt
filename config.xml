@@ -1,6 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <google>
+        <version>MK50</version>
+        <name>gapps_lollipop-20150111.zip</name>
+        <changelog>gapps_lollipop-20150111.log</changelog>
+        <changelog_zh-cn>gapps_lollipop-20150111_zh-cn.log</changelog_zh-cn>
+        <md5>d693f58c4cc022cca8f0ab0bc567c13b</md5>
+        <checkflag>com.google.android.gms</checkflag>
+        <description_zh-cn>谷歌服务包</description_zh-cn>
+        <description>Google Mobile Service</description>
+   </google>
+   <google>
         <version>MK44</version>
         <name>gapps_kitkat-140619.zip</name>
         <changelog>gapps_kitkat-140619.log</changelog>
