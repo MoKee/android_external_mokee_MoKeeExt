@@ -1,69 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <root>
-   <google>
+   <gms>
         <version>MK51</version>
         <name>gapps_lollipop-mr1-20150417.zip</name>
         <md5>8c5561464914e9a752e87a6861847fae</md5>
         <checkflag>com.google.android.gms</checkflag>
         <description_zh-cn>谷歌服务包</description_zh-cn>
         <description>Google Mobile Service</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK51</version>
         <name>gapps-faceunlock_lollipop-mr1.zip</name>
         <md5>50406c7737f88198aa1f9a219cb14d16</md5>
         <checkflag>com.android.facelock</checkflag>
         <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
         <description>Google FaceUnlock</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK50</version>
         <name>gapps_lollipop-20150111.zip</name>
         <md5>d693f58c4cc022cca8f0ab0bc567c13b</md5>
         <checkflag>com.google.android.gms</checkflag>
         <description_zh-cn>谷歌服务包</description_zh-cn>
         <description>Google Mobile Service</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK50</version>
         <name>gapps-faceunlock_lollipop.zip</name>
         <md5>3bc0ff125a09cb2759b7a9a44ea2e271</md5>
         <checkflag>com.android.facelock</checkflag>
         <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
         <description>Google FaceUnlock</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK44</version>
         <name>gapps_kitkat-140619.zip</name>
         <md5>fba94c73443e800fb25a9660214012e2</md5>
         <checkflag>com.google.android.gms</checkflag>
         <description_zh-cn>谷歌服务包</description_zh-cn>
         <description>Google Mobile Service</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK44</version>
         <name>uninstall_gapps_kitkat.zip</name>
         <md5>73ee16f365ab2d14e6ded858058f0913</md5>
         <checkflag>uninstall.com.google.android.gms</checkflag>
         <description_zh-cn>卸载谷歌服务包</description_zh-cn>
         <description>Uninstall Google Mobile Service</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK44</version>
         <name>gapps-faceunlock_kitkat.zip</name>
         <md5>09253504c12837909e7a04de2ec1650e</md5>
         <checkflag>com.android.facelock</checkflag>
         <description_zh-cn>谷歌面部解锁扩展包</description_zh-cn>
         <description>Google FaceUnlock</description>
-   </google>
-   <google>
+   </gms>
+   <gms>
         <version>MK44</version>
         <name>uninstall_gapps-faceunlock_kitkat.zip</name>
         <md5>eefd0d78fe16b2813e2e19204fc1b192</md5>
         <checkflag>uninstall.com.android.facelock</checkflag>
         <description_zh-cn>卸载谷歌面部解锁扩展包</description_zh-cn>
         <description>Uninstall Google FaceUnlock</description>
-   </google>
+   </gms>
    <application>
         <version>MK44</version>
         <name>MoKeeMarket.apk</name>
